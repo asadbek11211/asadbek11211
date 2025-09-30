@@ -1,4 +1,5 @@
 ### Hi I'm Asadbek Ruziboyev Umirbek ug'li 👋
+<h3>Biz hozir barchamiz githubda faol ishlamoqdamiz barcha o'quvchilar bilan</h3>
 
 <!--
 **asadbek11211/asadbek11211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
