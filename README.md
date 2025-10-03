@@ -15,11 +15,11 @@
   <li>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg" width="40" height="40"/>
   </li>
-  <li>Python</li>
-
-
-
+  
 </ol>
+
+<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="400" alt="Profile GIF">
+
 
 <!--
 **asadbek11211/asadbek11211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
