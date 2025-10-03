@@ -15,7 +15,8 @@
   <li>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg" width="40" height="40"/>
   </li>
-  
+   <img src=" https://cdn-icons-png.flaticon.com/128/66/66834.png" width="40" height="40"/>
+ 
 </ol>
 
 <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="400" alt="Profile GIF">
