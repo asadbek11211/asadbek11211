@@ -6,13 +6,18 @@
 </h4>
 <ol>
   
-  <li>HTML</li>
-  <li>css</li>
-  <li>javaScript</li>
+  <li>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/html5.svg" width="40" height="40"/>
+  </li>
+  <li>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/css3.svg" width="40" height="40"/>
+  </li>
+  <li>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg" width="40" height="40"/>
+  </li>
   <li>Python</li>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/html5.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/css3.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg" width="40" height="40"/>
+
+
 
 </ol>
 
