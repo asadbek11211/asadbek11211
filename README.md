@@ -1,9 +1,11 @@
 ### Hi I'm Asadbek Ruziboyev Umirbek ug'li 👋
+ <script src="https://kit.fontawesome.com/xxxxxxxxxx.js" crossorigin="anonymous"></script>
 <h3>Biz hozir barchamiz githubda faol ishlamoqdamiz barcha o'quvchilar bilan</h3>
 <h4>
   Mening IT ko'nikmalarim
 </h4>
 <ol>
+  <i class="fas fa-home"></i>
   <li>HTML</li>
   <li>css</li>
   <li>javaScript</li>
